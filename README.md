@@ -1,6 +1,7 @@
 A simple Calculator for general purposes.
 
 ## Why use it?
+
 Its useful for simple calculations.
 
 ## Features
@@ -18,14 +19,15 @@ Its useful for simple calculations.
 * javascript
 
 ## How to Run?
+
 To run my application you simply need to clone the project and run the html file.
 
 ## Screenshot
-<img width="437" alt="image" src="https://github.com/ANIRUDHSHUKLA2003/CALCULATOR/assets/105125569/14a27357-de1b-4e76-9749-9419a0ec91d0">
+![calcscreen]<img width="437" alt="image" src="https://github.com/ANIRUDHSHUKLA2003/CALCULATOR/assets/105125569/14a27357-de1b-4e76-9749-9419a0ec91d0">
 
 ## Issues
-Internet Explorer you need to allow all the scripts to run.
-Not working in Mozilla.
-Feel free to submit more issues and enhancement requests.
+* Internet Explorer you need to allow all the scripts to run.
+* Not working in Mozilla.
+* Feel free to submit more issues and enhancement requests.
 
 
