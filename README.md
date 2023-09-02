@@ -20,3 +20,5 @@ Issues
 Internet Explorer you need to allow all the scripts to run.
 Not working in Mozilla.
 Feel free to submit more issues and enhancement requests.
+<img width="437" alt="image" src="https://github.com/ANIRUDHSHUKLA2003/CALCULATOR/assets/105125569/14a27357-de1b-4e76-9749-9419a0ec91d0">
+
